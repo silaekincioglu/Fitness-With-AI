@@ -2,9 +2,12 @@
 
 An end-to-end, edge-computing-powered interactive exercise platform that provides real-time biomechanical posture tracking, deterministic repetition validation, and algorithmic periodization using standard RGB webcams without external depth sensors or specialized hardware.
 
-Developed as a Graduation Project at Uskudar University, Department of Computer Engineering.  
-Author: Sila Ekincioglu  
-Advisor: Asst. Prof. Fatih Temiz  
+
+[![React](https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
+[![MediaPipe](https://img.shields.io/badge/GOOGLE_MEDIAPIPE-0A84FF?style=for-the-badge&logo=google&logoColor=white)](https://developers.google.com/mediapipe)
+[![Computer Vision](https://img.shields.io/badge/COMPUTER_VISION-333333?style=for-the-badge)](https://github.com/silaekincioglu/Fitness-With-AI)
+[![Firebase](https://img.shields.io/badge/FIREBASE-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
+[![Edge AI](https://img.shields.io/badge/EDGE_AI-238636?style=for-the-badge)](https://github.com/silaekincioglu/Fitness-With-AI)
 
 ---
 
@@ -107,5 +110,3 @@ To protect intellectual property and proprietary database credentials, this publ
 - Backend & Storage: Google Firebase (Authentication & Cloud Firestore)
 
 ---
-
-
